@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/OpenServer/domains/framework/engine/classes/Controller.php</file>
+            <file>file:/C:/OpenServer/domains/framework/engine/interfaces/IModule.php</file>
+            <file>file:/C:/OpenServer/domains/framework/engine/classes/Table.php</file>
+            <file>file:/C:/OpenServer/domains/framework/engine/configs/configs.ini</file>
+            <file>file:/C:/OpenServer/domains/framework/engine/classes/TemplateHandler.php</file>
+            <file>file:/C:/OpenServer/domains/framework/design/frontend/CatalogController.php</file>
+            <file>file:/C:/OpenServer/domains/framework/engine/functions.php</file>
+            <file>file:/C:/OpenServer/domains/framework/engine/classes/SimpleImage.php</file>
+            <file>file:/C:/OpenServer/domains/framework/engine/patterns/Singleton.php</file>
+            <file>file:/C:/OpenServer/domains/framework/engine/classes/RouterSingle.php</file>
+            <file>file:/C:/OpenServer/domains/framework/index.php</file>
+            <file>file:/C:/OpenServer/domains/framework/engine/classes/Databank.php</file>
+            <file>file:/C:/OpenServer/domains/framework/engine/classes/Database.php</file>
+            <file>file:/C:/OpenServer/domains/framework/engine/classes/DatabaseHandler.php</file>
+            <file>file:/C:/OpenServer/domains/framework/engine/engine.php</file>
+        </group>
+    </open-files>
+</project-private>
